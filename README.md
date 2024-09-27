@@ -24,7 +24,7 @@ During the while-loop module, I learned about creating loops that execute as lon
 **[Nested Loops](https://github.com/trayanaboykova/Programming-Basics-JavaScript/tree/main/06-nested-loops)**: <br> 
 The nested loops module introduced the concept of having one loop inside another in JavaScript. During the course, I learned how to work with nested loops to perform operations on each element of basic data structures. I gained proficiency in utilizing nested loops to solve various coding problems that involve repetitive actions and iteration.
 
-By completing the "Programming Basics with JavaScript" course, I have acquired the basics in JavaScript programming. I am now equipped with knowledge of JavaScript syntax, conditional statements, loop constructs, and problem-solving techniques using JavaScript.
+*By completing the [Programming Basics with JavaScript](https://softuni.bg/trainings/4001/programming-basics-with-javascript-march-2023), I have acquired the basics in JavaScript programming. I am now equipped with knowledge of JavaScript syntax, conditional statements, loop constructs, and problem-solving techniques using JavaScript.*
 
 # Certificate
 <a href="https://softuni.bg/certificates/details/170528/f8553fdd" rel="nofollow"><img src="https://user-images.githubusercontent.com/101351760/234004462-4e3fb921-96db-4ffa-ae35-cceb007004fe.png" alt="Programming Basics with JavaScript"></a>
