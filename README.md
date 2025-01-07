@@ -4,7 +4,7 @@ Coding exercises and projects from my education at <a href="https://softuni.bg/"
 All of the solutions have passed 100/100 - you can check them here: <a href="https://judge.softuni.org/Contests/#!/List/ByCategory/247/JS-Basics">Programming Basics with JavaScript</a>
 <br>
 
-<b>Course Curriculum: Programming Basics with JavaScript</b>
+<b>Course Curriculum: [Programming Basics with JavaScript Course](https://softuni.bg/trainings/4001/programming-basics-with-javascript-march-2023)</b>
 
 **[First Steps In Coding](https://github.com/trayanaboykova/Programming-Basics-JavaScript/tree/main/01-first-steps-in-coding)**: <br> 
 In this introductory module, I covered the basics of programming using JavaScript. I learned about fundamental concepts, syntax, and the structure of JavaScript programs.
